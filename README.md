@@ -8,3 +8,13 @@ Real-time face detection and emotion classification using fer2013 datasets with 
 TensorBoard
 
 https://screenshots.firefox.com/Cf311vjDhEZUwjax/ubuntu
+
+
+requirements:
+keras==2.0.5
+tensorflow==1.1.0
+pandas==0.19.1
+numpy==1.12.1
+h5py==2.7.0
+statistics
+opencv-python==3.2.0
